@@ -63,3 +63,6 @@ int main() {
 | LinkedIn  | [Ссылка](https://www.youtube.com/) | test    |
 | WhatsApp  | [Ссылка](https://www.youtube.com/) | test    |
 | Telegram  | [Ссылка](https://www.youtube.com/) | test    |
+
+урок4) создание веток
+файл username.sh содержит текст с моим именем
